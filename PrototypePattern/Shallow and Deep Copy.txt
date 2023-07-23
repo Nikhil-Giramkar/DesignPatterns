@@ -1,0 +1,15 @@
+Shallow copy (clone by reference)
+-------------
+Whenver we simply clone an object from another.
+Its shallow copy is created.
+Meaning, if an Object 1 contains some other object (Obj X)
+Then when we create a clone of Object 1 as Object 2, then reference of Obj X is added in Object 2.
+
+Due to which, when changes are made in Obj X for any objects 1 or 2.
+Then its results will get reflected for both 1 and 2. Since they point to same memory location of ObjX
+
+
+Deep copy (clone by Value)
+--------
+In this method, we create a new instance of Obj X for cloned object (Object 2).
+So that each object 1 and 2 has their own copy of Obj X.

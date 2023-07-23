@@ -1,0 +1,6 @@
+Concept is to copy an existing object rather than craeting an object from scratch
+Because creating an object may be costly.
+
+This saves costly resources and time especially when object creation is costly.
+
+Use clone method in Cloneable interface to make exact copy of object
