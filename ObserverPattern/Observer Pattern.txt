@@ -1,0 +1,11 @@
+This is a behavorial design pattern.
+It focuses on intercation between the two objects
+
+Based on Subscriber and Publisher model.
+
+There are several observer objects which observe for any new change introduced in subject object.
+Ex: Youtube
+A channel is subject.
+Subscribers are observers
+Whenever a new video uploaded on a channel.
+Its Subscribers are notified about it
