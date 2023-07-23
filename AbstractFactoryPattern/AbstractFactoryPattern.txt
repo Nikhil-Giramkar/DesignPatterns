@@ -1,0 +1,7 @@
+Similar to Factory design pattern.
+The factory class delegates the task of object creation to other class
+Adds an additional layer of abstraction
+
+Advantage:
+1. Focus on creating object for interface rather than implementation
+2. Loose coupling and robust code
