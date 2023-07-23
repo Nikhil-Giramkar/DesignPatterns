@@ -1,0 +1,8 @@
+When there is a super class and multiple child classes
+And we want to create the child class based o input received from user
+In such case, we create a factory class that takes responsibility of object creation
+Where user is unaware of how objects are getting created
+
+Advantage:
+1. Focus on creating object for interface rater than implementation
+2. Loose coupling and robust code
