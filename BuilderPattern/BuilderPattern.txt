@@ -1,0 +1,11 @@
+In Factory pattern
+We pass some parameters and create an object like EmployeeType
+Suppose we want to create a complex object for which we need to pass multiple parameters
+1. In such case we need to pass all parameters, keep in mind the sequence of paramaters
+2. If a parameter is optional, we need to overload one more constructor and 
+create all possibilities of making that object
+
+In Builder pattern
+We create object step by step
+And finally return object with desired attributes
+This pattern mostly used to create immutable objects
