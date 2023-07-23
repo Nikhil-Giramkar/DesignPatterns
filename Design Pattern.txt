@@ -1,0 +1,15 @@
+Design Patterns are well proven solutions for commonly occuring problems in software devlopment
+
+Categories of design patterns:
+
+1. Creational Design patterns
+- Design patterns which provide an approach for creating objects
+- Ex: Singleton Pattern, Builder Pattern, Factory Pattern, etc.
+
+2. Structural Design Pattern
+- These design patterns provide an approch to strucure various classes/ objects and overall code.
+- Ex: Proxy Pattern, Adaprior Pattern, eyc
+
+3. Behavorial Design Pattern
+- They provide an approach for interaction between any two objects along with loose coupling.
+- Ex: Observer Patter, State Pattern, Iterator Pattern
